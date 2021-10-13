@@ -1,0 +1,973 @@
+[
+  {
+    "_id": "6156dc22d617cdb08c04fd29",
+    "title": " Superb 1 Bedroom in The W Residences Downtown",
+    "desc": "Welcome to The Residences aw W NY Downtown. Enjoy the W lifestyle with the space of your own apartment. Easy access to all of NYC! Professionally managed by RESIDE Worldwide.Please note that floor plans differ by unit. Please enquire to confirm your exact unit.",
+    "price": 381,
+    "previewDesc": " Entire rental unit",
+    "capacity": 2,
+    "type": "Apartment",
+    "stayType": "Private Room",
+    "typeDesc": "2 guests · 1 bedroom · 1 bed · 1 bath",
+    "city": "New York",
+    "avgReviewRating": 4,
+    "amenities": [
+      "TV",
+      "Wifi",
+      "Kitchen",
+      "Pets allowed",
+      "Cooking basics"
+    ],
+    "imgUrls": [
+      "https: //a0.muscache.com/im/pictures/pro_photo_tool/Hosting-39103956-unapproved/original/7aae78ce-3b34-461c-998a-0f88444b49ac.JPEG",
+      "https: //a0.muscache.com/im/pictures/pro_photo_tool/Hosting-39103956-unapproved/original/6ebacbac-7c5f-4e0d-99b6-430ff1cc86f2.JPEG",
+      "https: //a0.muscache.com/im/pictures/pro_photo_tool/Hosting-39103956-unapproved/original/307196fa-ef88-441d-8ad2-7559c8e659c2.JPEG",
+      "https: //a0.muscache.com/im/pictures/pro_photo_tool/Hosting-39103956-unapproved/original/307196fa-ef88-441d-8ad2-7559c8e659c2.JPEG",
+      "https: //a0.muscache.com/im/pictures/pro_photo_tool/Hosting-39103956-unapproved/original/2fb30426-c6b7-46eb-9378-f4f8ce84a029.JPEG"
+    ],
+    "host": {
+      "_id": "615705a3d617cdb08c1151d3",
+      " fullname": "David Levi",
+      "imgUrl": "https: //a0.muscache.com/im/pictures/user/139fcf37-654b-428a-b594-b2199bce3d7a.jpg"
+    },
+    "loc": {
+      "country": "United States",
+      "countryCode": "US",
+      " address": "New York, United States",
+      "lat": 40.6669600790183,
+      "lng": -73.931524861029
+    },
+    "stayReviewSum": {
+      " cleanliness": 3.8,
+      "communication": 3.9,
+      " check-in": 3.5,
+      "accuracy": 4.1,
+      " location": 4.6,
+      "value": 4.8
+    },
+    "reviews": [
+      {
+        "id": "r101",
+        "txt": "Wonderful stay at Ryan’s!",
+        " date": "August 2021",
+        "ratings": {
+          "avg": 3.5,
+          "cleanliness": 3.8,
+          "communication": 3.9,
+          "check-in": 3.5,
+          "accuracy": 4.1,
+          "location": 4.6,
+          "value": 4.8
+        },
+        "by": {
+          "_id": "u102",
+          "fullname": "Edna Levi",
+          "imgUrl": "https: //a0.muscache.com/im/pictures/user/1e548a9d-602a-4eae-b5bb-b1e250678b61.jpg"
+        }
+      },
+      {
+        " id": "r102",
+        " txt": " Perfect location, clean and light apartment with amazing view to WTC. Rayan kindly and super fast helped us with all the questions we had during this stay. Thank you!",
+        " date": "July 2020",
+        "ratings": {
+          "avg": 4.1,
+          "cleanliness": 4.1,
+          "communication": 5,
+          "check-in": 4.3,
+          "accuracy": 4.8,
+          "location": 4.6,
+          "value": 4.2
+        },
+        "by": {
+          "_id": "u103",
+          "fullname": "Ivan",
+          "imgUrl": "https: //a0.muscache.com/im/pictures/user/87cc7028-d520-4a51-bd30-14fa64fee5e0.jpg"
+        }
+      },
+      {
+        " id": "r103",
+        " txt": "Amazing place, location, very clean and perfect for a trip in the city. The hosts were really hospitable and communicative. I would totally go back. I definitely recommend.",
+        " date": "June 2021",
+        "ratings": {
+          "avg": 3.8,
+          "cleanliness": 3,
+          " communication": 4,
+          "check-in": 4,
+          "accuracy": 4,
+          "location": 4,
+          "value": 4
+        },
+        "by": {
+          "_id": "u104",
+          "fullname": "Zoey Hirsh",
+          "imgUrl": "https: //a0.muscache.com/im/users/477080/profile_pic/1435261764/original.jpg"
+        }
+      }
+    ]
+  },
+
+  {
+    "_id": "s102",
+    "title": "Studio Loft: Cleaning CDC guidelines implemented",
+    "desc": "The loft features a open floor plan with a amazing NYC skyline view from every window. There is a brand new kitchen featuring stainless steel appliances including dishwasher. There is a modern bathroom with a large shower. The studio features a queen sized bed. The living area has a cozy sofa, teak chair, and a 32' flat screen TV with free cable provided.",
+    "price": "413",
+    "previewDesc": "Entire serviced apartment",
+    "capacity": "2",
+    "type": "Loft",
+    "stayType": "Entire Place",
+    "typeDesc": "2 guests · Studio · 1 bed · 1 bath",
+    "city": "New York",
+    "avgReviewRating": 4.5,
+    "amenities": ["TV", "Wifi", "Kitchen", "Cooking basics"],
+    "imgUrls": [
+      "https://a0.muscache.com/im/pictures/23526987/e08c19f0_original.jpg",
+      "https://a0.muscache.com/im/pictures/23527002/b0c3b396_original.jpg",
+      "https://a0.muscache.com/im/pictures/23526982/4d9455a0_original.jpg",
+      "https://a0.muscache.com/im/pictures/23526979/e368236f_original.jpg",
+      "https://a0.muscache.com/im/pictures/23526973/7d6205c7_original.jpg"
+    ],
+    "host": {
+      "_id": "u105",
+      "fullname": "Elain Hills",
+      "imgUrl":
+        "https://a0.muscache.com/im/users/35191034/profile_pic/1433675940/original.jpg?im_w=240"
+    },
+    "loc": {
+      "country": "United States",
+      "countryCode": "US",
+      "address": "New York, United States",
+      "lat": 40.66696007901832,
+      "lng": -73.93152486102896
+    },
+    "stayReviewSum": {
+      "cleanliness": 3.8,
+      "communication ": 3.9,
+      "check-in ": 3.5,
+      "accuracy ": 4.1,
+      "location ": 4.6,
+      "value ": 4.8
+    },
+    "reviews": [
+      {
+        "id": "r104",
+        "txt": "Clean and cozy stay! Airbnb is located on the 4th floor so expect to burn off some calories going up and down the stairs! The cleaning staff comes once a week which helped during our month long stay. If we did have any questions, Oscar and the super were responsive and helpful.",
+        "date": "September 2021",
+        "ratings": {
+          "avg": 4.5,
+          "cleanliness": 3.2,
+          "communication ": 4.3,
+          "check-in ": 4.7,
+          "accuracy ": 2.3,
+          "location ": 4.9,
+          "value ": 3.9
+        },
+        "by": {
+          "_id": "u106",
+          "fullname": "Erica",
+          "imgUrl":
+            "https://a0.muscache.com/im/users/43360363/profile_pic/1443118542/original.jpg"
+        }
+      },
+      {
+        "id": "r105",
+        "txt": "This is such a nice Airbnb, particularly if you are looking for a longer stay. I stayed in the apartment for a month and worked from home and it was perfect for my needs. The location is in Greenpoint right by Mcgolrick park. The space is clean, airy and charming and has been perfect for me to work from home.",
+        "date": "May 2021",
+        "ratings": {
+          "avg": 4.3,
+          "cleanliness": 3.2,
+          "communication ": 4.3,
+          "check-in ": 4.7,
+          "accuracy ": 2.3,
+          "location ": 4.9,
+          "value ": 3.9
+        },
+        "by": {
+          "_id": "u107",
+          "fullname": "Elaine",
+          "imgUrl":
+            "https://a0.muscache.com/im/pictures/user/2e6f6f6b-9cc9-47ae-bbfc-1c0c35051c85.jpg"
+        }
+      },
+      {
+        "id": "r106",
+        "txt": "101 Sutton was great for my month long stay. Clean and comfortable.",
+        "date": "March 2021",
+        "ratings": {
+          "avg": 3.1,
+          "cleanliness": 3.2,
+          "communication ": 4.3,
+          "check-in ": 4.7,
+          "accuracy ": 2.3,
+          "location ": 4.9,
+          "value ": 3.9
+        },
+        "by": {
+          "_id": "u108",
+          "fullname": "Inanna",
+          "imgUrl":
+            "https://a0.muscache.com/im/pictures/user/09715d6a-8190-441b-8155-a555ef6f9a13.jpg"
+        }
+      },
+      {
+        "id": "r107",
+        "txt": "Highly recommend this place! Very clean, thoughtful touches and in a great location.",
+        "date": "December 2020",
+        "ratings": {
+          "avg": 3.7,
+          "cleanliness": 3.2,
+          "communication ": 4.3,
+          "check-in ": 4.7,
+          "accuracy ": 2.3,
+          "location ": 4.9,
+          "value ": 3.9
+        },
+        "by": {
+          "_id": "u109",
+          "fullname": "Karlyle",
+          "imgUrl":
+            "https://a0.muscache.com/im/pictures/user/53921c5a-e301-4f49-9a4a-12851c033363.jpg?im_w=240"
+        }
+      },
+      {
+        "id": "r108",
+        "txt": "Beautiful and cozy place",
+        "date": "February 2021",
+        "ratings": {
+          "avg": 3.1,
+          "cleanliness": 3.2,
+          "communication ": 4.3,
+          "check-in ": 4.7,
+          "accuracy ": 2.3,
+          "location ": 4.9,
+          "value ": 3.9
+        },
+        "by": {
+          "_id": "u110",
+          "fullname": "Victoria",
+          "imgUrl":
+            "https://a0.muscache.com/im/pictures/user/15d5fa6d-f6b3-4c52-9cd9-d048fc1281de.jpg?im_w=240"
+        }
+      }
+    ]
+  },
+
+  {
+    "_id": "s103",
+    "title": "Stylish Entire 1 Bedroom Flat, Chelsea, Kings Road",
+    "desc": "Beautifully furnished flat on the King's Road, perfect for couple getaways to London or for the overnight business stopover. High-end furnishing, quaint balcony perfect for an evening drink in the summer, along with a park steps from your doorstep. ",
+    "price": "275",
+    "previewDesc": "Entire rental unit",
+    "capacity": "2",
+    "type": "Private Home",
+    "stayType": "Private Room",
+    "typeDesc": "2 guests · 1 bedroom · 1 bed · 1 bath",
+    "city": "London",
+    "avgReviewRating": 4.1,
+    "amenities": ["Kitchen", "Pets allowed", "Cooking basics"],
+    "imgUrls": [
+      "https://a0.muscache.com/im/pictures/75c0e81a-a0b8-4706-9068-359595cd2359.jpg",
+      "https://a0.muscache.com/im/pictures/9e022d79-9649-4435-a0f6-77232f0e79e7.jpg",
+      "https://a0.muscache.com/im/pictures/49657a4c-fd71-4ef7-8360-640d9bb1459b.jpg",
+      "https://a0.muscache.com/im/pictures/f3976e26-6ecf-43b5-a5c9-914af0030575.jpg",
+      "https://a0.muscache.com/im/pictures/6d6156cd-9337-44da-accc-c770b9edba88.jpg"
+    ],
+    "host": {
+      "_id": "u111",
+      "fullname": "Bob Ross",
+      "imgUrl":
+        "https://a0.muscache.com/im/pictures/user/2c7fbea6-1ea5-41cd-bfb9-3eafb85399c7.jpg?im_w=240"
+    },
+    "loc": {
+      "country": "England",
+      "countryCode": "GB",
+      "address": "London, England",
+      "lat": 51.50208484728918,
+      "lng": -0.14313439307298786
+    },
+    "stayReviewSum": {
+      "cleanliness": 3.8,
+      "communication ": 3.9,
+      "check-in ": 3.5,
+      "accuracy ": 4.1,
+      "location ": 4.6,
+      "value ": 4.8
+    },
+    "reviews": [
+      {
+        "id": "r109",
+        "txt": "Great host, great stay!",
+        "date": "April 2021",
+        "ratings": {
+          "avg": 4.3,
+          "cleanliness": 3.8,
+          "communication ": 4.3,
+          "check-in ": 4.7,
+          "accuracy ": 2.3,
+          "location ": 4.9,
+          "value ": 3.9
+        },
+        "by": {
+          "_id": "u112",
+          "fullname": "Ertan Can",
+          "imgUrl":
+            "https://a0.muscache.com/im/pictures/user/72aa03b7-f4e7-497d-bf23-dbdf91755df8.jpg?im_w=240"
+        }
+      },
+      {
+        "id": "r110",
+        "txt": "I had a comfortable stay at B's place.",
+        "date": "March 2021",
+        "ratings": {
+          "avg": 4.0,
+          "cleanliness": 3.8,
+          "communication ": 4.3,
+          "check-in ": 4.7,
+          "accuracy ": 2.3,
+          "location ": 4.9,
+          "value ": 3.9
+        },
+        "by": {
+          "_id": "u113",
+          "fullname": "Ceyda",
+          "imgUrl":
+            "https://a0.muscache.com/im/users/40391282/profile_pic/1439183113/original.jpg?im_w=240"
+        }
+      },
+      {
+        "id": "r111",
+        "txt": "Cosy, stylish little flat in the heart if Chelsea. Everything within reach. Right next to a little park. Perfect for walks/runs. Flat jas everything you need including a little balcony. Would definitely stay here again.",
+        "date": "November 2020",
+        "ratings": {
+          "avg": 4.8,
+          "cleanliness": 3.8,
+          "communication ": 4.3,
+          "check-in ": 4.7,
+          "accuracy ": 2.3,
+          "location ": 4.9,
+          "value ": 3.9
+        },
+        "by": {
+          "_id": "u114",
+          "fullname": "Channelle",
+          "imgUrl":
+            "https://a0.muscache.com/im/users/27688136/profile_pic/1423835108/original.jpg?im_w=240"
+        }
+      },
+      {
+        "id": "r112",
+        "txt": "Beautiful, stylish and comfortable flat in exceptional location. Perfect for a city weekend.",
+        "date": "October 2020",
+        "ratings": {
+          "avg": 4.9,
+          "cleanliness": 3.8,
+          "communication ": 4.3,
+          "check-in ": 4.7,
+          "accuracy ": 2.3,
+          "location ": 4.9,
+          "value ": 3.9
+        },
+        "by": {
+          "_id": "u115",
+          "fullname": "Ben",
+          "imgUrl":
+            "https://a0.muscache.com/im/pictures/user/1199bb79-3af1-42e0-b1a7-3e8cba99cb10.jpg?im_w=240"
+        }
+      }
+    ]
+  },
+
+  {
+    "_id": "s104",
+    "title": "Classic and Cosy Central London pad",
+    "desc": "If you like to relax in comfort in a traditional book lined sitting room. This cosy but central apartment in a quiet residential road will be right up your street",
+    "price": "526",
+    "previewDesc": "Entire rental unit ",
+    "capacity": "3",
+    "typeDesc": "3 guests · 1 bedroom · 2 beds, · 1 bath",
+    "type": "Appartment",
+    "stayType": "Entire Place",
+    "city": "London",
+    "avgReviewRating": 4.3,
+    "amenities": ["TV", "Wifi", "Kitchen", "Pets allowed"],
+    "imgUrls": [
+      "https://a0.muscache.com/im/pictures/4c3445ed-0faa-464e-8082-2d155e1168dd.jpg",
+      "https://a0.muscache.com/im/pictures/2aa60199-34ee-44e6-9d07-384dd87f380c.jpg",
+      "https://a0.muscache.com/im/pictures/ea83003d-f5f4-4bd7-829a-b5edef6e81c5.jpg",
+      "https://a0.muscache.com/im/pictures/4e01e007-be41-4123-ad23-9b602f410d5a.jpg",
+      "https://a0.muscache.com/im/pictures/9c2538b7-f06a-4652-9a51-d49531c78783.jpg"
+    ],
+    "host": {
+      "_id": "u116",
+      "fullname": "James Williams",
+      "imgUrl":
+        "https://a0.muscache.com/im/users/31348724/profile_pic/1429367474/original.jpg?im_w=240"
+    },
+    "loc": {
+      "country": "England",
+      "countryCode": "GB",
+      "address": "London",
+      "lat": 51.50208484728918,
+      "lng": -0.14313439307298786
+    },
+    "stayReviewSum": {
+      "cleanliness": 3.8,
+      "communication ": 3.9,
+      "check-in ": 3.5,
+      "accuracy ": 4.1,
+      "location ": 4.6,
+      "value ": 4.8
+    },
+    "reviews": [
+      {
+        "id": "r113",
+        "txt": "One of the best AirBnb’s we’ve stayed in. Communication was excellent and John really helpful. Included were all those important things that make a stay comfortable such as a great shower, comfy bed, lovely outdoor space and welcome pack food essentials. The location was also superb - 10 mins to the tube and a great coffee shop on the way. I would highly recommend Caroline’s place for a stay in London.",
+        "date": "September 2021",
+        "ratings": {
+          "avg": 4.7,
+          "cleanliness": 3.2,
+          "communication ": 4.3,
+          "check-in ": 4.7,
+          "accuracy ": 2.3,
+          "location ": 4.9,
+          "value ": 3.9
+        },
+        "by": {
+          "_id": "u117",
+          "fullname": "Anita",
+          "imgUrl":
+            "https://a0.muscache.com/im/pictures/user/7290aa8c-c868-4b7f-a9c9-4118b203503a.jpg?im_w=240"
+        }
+      },
+      {
+        "id": "r114",
+        "txt": "The location of the property was absolutely spot on with shops and the tube in short walking distance. The flat was well equipped with all the home comforts and we massively appreciated the snacks and wine on arrival. Best stay in London we have had so far!",
+        "date": "September 2021",
+        "ratings": {
+          "avg": 4.2,
+          "cleanliness": 3.2,
+          "communication ": 4.3,
+          "check-in ": 4.7,
+          "accuracy ": 2.3,
+          "location ": 4.9,
+          "value ": 3.9
+        },
+        "by": {
+          "_id": "u118",
+          "fullname": "Thomas",
+          "imgUrl":
+            "https://a0.muscache.com/im/pictures/user/006d86e3-0229-4344-beea-1e2fa2eb024b.jpg?im_w=240"
+        }
+      },
+      {
+        "id": "r115",
+        "txt": "The absolutely perfect spot. We had a wonderful time and the apartment was decorated beautifully, lovely and clean and a great location! Thanks again and we can’t wait to come and visit soon.",
+        "date": "July 2019",
+        "ratings": {
+          "avg": 4.3,
+          "cleanliness": 3.2,
+          "communication ": 4.3,
+          "check-in ": 4.7,
+          "accuracy ": 2.3,
+          "location ": 4.9,
+          "value ": 3.9
+        },
+        "by": {
+          "_id": "u119",
+          "fullname": "Emilia",
+          "imgUrl":
+            "https://a0.muscache.com/im/pictures/user/69da6fd9-ac6b-4895-b4bb-8e1046329bde.jpg?im_w=240"
+        }
+      }
+    ]
+  },
+
+  {
+    "_id": "s105",
+    "title": "Tropical Studio, Self Check-In, Sparkling Clean",
+    "desc": "Self Check-In: easy access and you can arrive whenever you want.Close to Central: Metro across the street, direct line. Nice area: Great coffee places, restaurants and bars around the corner. ",
+    "price": "319",
+    "previewDesc": "Entire rental unit",
+    "capacity": "2",
+    "typeDesc": "2 guests · Studio, · 1 bed · 1 bath",
+    "type": "Studio",
+    "stayType": "Entire Place",
+    "city": "Amsterdam",
+    "avgReviewRating": 3.8,
+    "amenities": ["Wifi", "Kitchen", "Pets allowed", "Cooking basics"],
+    "imgUrls": [
+      "https://a0.muscache.com/im/pictures/0872008e-5b4d-40a0-9746-113a3db90373.jpg",
+      "https://a0.muscache.com/im/pictures/961ff856-fd5c-4b42-9712-c49662c568f5.jpg",
+      "https://a0.muscache.com/im/pictures/7ffb01c0-a971-41aa-ab6e-50e75bcb2939.jpg",
+      "https://a0.muscache.com/im/pictures/ba79e0f9-4806-4f51-852b-e463e94d1fcd.jpg",
+      "https://a0.muscache.com/im/pictures/edc1745e-031f-4001-851a-da81ef8a9f4c.jpg"
+    ],
+    "host": {
+      "_id": "u120",
+      "fullname": "Laurence Baas",
+      "imgUrl":
+        "https://a0.muscache.com/im/pictures/user/cd58f197-01c3-45f2-9380-f0265be2240d.jpg?im_w=240"
+    },
+    "loc": {
+      "country": "The Netherlands",
+      "countryCode": "NL",
+      "address": "Amsterdam, Netherlands",
+      "lat": 52.36638613974101,
+      "lng": 4.907738471979122
+    },
+    "stayReviewSum": {
+      "cleanliness": 3.8,
+      "communication ": 3.9,
+      "check-in ": 3.5,
+      "accuracy ": 4.1,
+      "location ": 4.6,
+      "value ": 4.8
+    },
+    "reviews": [
+      {
+        "id": "r116",
+        "txt": "the apartment has a very nice vibe , they have plants around so it gives you a very relaxing experience while you there",
+        "date": "September 2021",
+        "ratings": {
+          "avg": 4.5,
+          "cleanliness": 3.2,
+          "communication ": 4.3,
+          "check-in ": 4.7,
+          "accuracy ": 2.3,
+          "location ": 4.9,
+          "value ": 3.9
+        },
+        "by": {
+          "_id": "u121",
+          "fullname": "Juan",
+          "imgUrl":
+            "https://a0.muscache.com/im/pictures/user/db84cc7d-b29e-44dd-960a-37ad7e8d4cbb.jpg?im_w=240"
+        }
+      },
+      {
+        "id": "r117",
+        "txt": "very friendly, central, nice location to be recommended",
+        "date": "October 2021",
+        "ratings": {
+          "avg": 4.5,
+          "cleanliness": 3.2,
+          "communication ": 4.3,
+          "check-in ": 4.7,
+          "accuracy ": 2.3,
+          "location ": 4.9,
+          "value ": 3.9
+        },
+        "by": {
+          "_id": "u122",
+          "fullname": "Eriona",
+          "imgUrl":
+            "https://a0.muscache.com/im/pictures/user/38be01af-b895-4932-b301-0deefa2786f0.jpg?im_w=240"
+        }
+      },
+      {
+        "id": "r118",
+        "txt": "Everything was simple great. Perfect communication with the owner. The apartment is very clean and beautiful. Just a five-star experience.",
+        "date": "August 2020",
+        "ratings": {
+          "avg": 4.5,
+          "cleanliness": 3.2,
+          "communication ": 4.3,
+          "check-in ": 4.7,
+          "accuracy ": 2.3,
+          "location ": 4.9,
+          "value ": 3.9
+        },
+        "by": {
+          "_id": "u123",
+          "fullname": "Adrian",
+          "imgUrl":
+            "https://a0.muscache.com/im/pictures/user/dfd6aa7f-7061-405b-85a3-171d0af4b34d.jpg?im_w=240"
+        }
+      },
+      {
+        "id": "r119",
+        "txt": "BEST AIRBNB SO FAR! We had a very pleasant stay in this studio. It's the cutest airbnb i saw so far, exceeded my expectations All basic amenities provided.",
+        "date": "September 2020",
+        "ratings": {
+          "avg": 4.5,
+          "cleanliness": 3.2,
+          "communication ": 4.3,
+          "check-in ": 4.7,
+          "accuracy ": 2.3,
+          "location ": 4.9,
+          "value ": 3.9
+        },
+        "by": {
+          "_id": "u124",
+          "fullname": "Santosha",
+          "imgUrl":
+            "https://a0.muscache.com/im/pictures/user/50a1fa60-575c-4ab9-8a8d-7af4870d655f.jpg?im_w=240"
+        }
+      }
+    ]
+  },
+
+  {
+    "_id": "s106",
+    "title": "Singel Hotel Amsterdam: Single Room ",
+    "desc": "A charming gem, right in the heart of Amsterdam. The Singel Hotel Amsterdam is known for its historic charm and offers daily accommodation to both tourists and business travellers. Our fantastic location, atmospheric accommodation and excellent service guarantee you one of the most pleasant overnight stays in Amsterdam. ",
+    "price": "358",
+    "previewDesc": "Room in boutique hotel",
+    "capacity": "1",
+    "typeDesc": "1 guest · 1 bedroom · 1 bed · 1 private bath",
+    "type": "Room",
+    "stayType": "Private Room",
+    "city": "Amsterdam",
+    "avgReviewRating": 4.0,
+    "amenities": ["TV", "Wifi", "Kitchen", "Cooking basics"],
+    "imgUrls": [
+      "https://a0.muscache.com/im/pictures/722e53d1-0f3d-4466-a475-41a7969d836d.jpg",
+      "https://a0.muscache.com/im/pictures/675119b2-be3a-44f9-a6f9-73c31c379095.jpg",
+      "https://a0.muscache.com/im/pictures/e54680e0-1092-4e86-a220-b07f361109bb.jpg",
+      "https://a0.muscache.com/im/pictures/e772e01a-f29f-49b5-942f-a490a21ac84b.jpg",
+      "https://a0.muscache.com/im/pictures/e54680e0-1092-4e86-a220-b07f361109bb.jpg"
+    ],
+    "host": {
+      "_id": "u125",
+      "fullname": "Annemie van Beek",
+      "imgUrl":
+        "https://a0.muscache.com/im/pictures/user/accd943b-dfa9-43a9-b8ef-c5affdebea9c.jpg?im_w=240"
+    },
+    "loc": {
+      "country": "The Netherlands",
+      "countryCode": "NL",
+      "address": "Amsterdam, Netherlands",
+      "lat": 52.36638613974101,
+      "lng": 4.907738471979122
+    },
+    "stayReviewSum": {
+      "cleanliness": 3.8,
+      "communication ": 3.9,
+      "check-in ": 3.5,
+      "accuracy ": 4.1,
+      "location ": 4.6,
+      "value ": 4.8
+    },
+    "reviews": [
+      {
+        "id": "r120",
+        "txt": "I had a good experience with Singel hotel. I do recommend it to newcomers.",
+        "date": "August 2021",
+        "ratings": {
+          "avg": 4.5,
+          "cleanliness": 3.2,
+          "communication ": 4.3,
+          "check-in ": 4.7,
+          "accuracy ": 2.3,
+          "location ": 4.9,
+          "value ": 3.9
+        },
+        "by": {
+          "_id": "u126",
+          "fullname": "Reza",
+          "imgUrl":
+            "https://a0.muscache.com/im/pictures/user/accd943b-dfa9-43a9-b8ef-c5affdebea9c.jpg?im_w=240"
+        }
+      },
+      {
+        "id": "r121",
+        "txt": "A clean cozy room in the city center, the price of the room is relatively cheap compared to the location.",
+        "date": "August 2021",
+        "ratings": {
+          "avg": 4.5,
+          "cleanliness": 3.2,
+          "communication ": 4.3,
+          "check-in ": 4.7,
+          "accuracy ": 2.3,
+          "location ": 4.9,
+          "value ": 3.9
+        },
+        "by": {
+          "_id": "u127",
+          "fullname": "Francesca",
+          "imgUrl":
+            "https://a0.muscache.com/im/users/43360363/profile_pic/1443118542/original.jpg"
+        }
+      },
+      {
+        "id": "r122",
+        "txt": "A perfect place to relax and be in the city centre, on the best part of Amsterdam. Quite room with a fantastic view. Impeccable service and lovely people. ",
+        "date": "August 2021",
+        "ratings": {
+          "avg": 4.5,
+          "cleanliness": 3.2,
+          "communication ": 4.3,
+          "check-in ": 4.7,
+          "accuracy ": 2.3,
+          "location ": 4.9,
+          "value ": 3.9
+        },
+        "by": {
+          "_id": "u128",
+          "fullname": "Joselle Ann",
+          "imgUrl":
+            "https://a0.muscache.com/im/pictures/user/38be01af-b895-4932-b301-0deefa2786f0.jpg"
+        }
+      }
+      
+    ]
+  },
+
+  {
+    "_id": "s107",
+    "title": "Vintage 1910 Craftsman Home in Hip L.A. ",
+    "desc": "Spotless, comfy room with eclectic, artsy decor in a beautifully decorated Craftsman house. Friendly, helpful hostess will make you feel like you have come home! Close to light rail and to major Los Angeles tourist attractions.  ",
+    "price": "160",
+    "previewDesc": "Private room in residential home",
+    "capacity": "2",
+    "typeDesc": "2 guests · 1 bedroom · 1 bed · 1 shared bath",
+    "type": "Villa",
+    "stayType": "Entire Place",
+    "city": "Los Angeles",
+    "avgReviewRating": 3.5,
+    "amenities": ["TV", "Wifi", "Kitchen", "Pets allowed", "Cooking basics"],
+    "imgUrls": [
+      "https://a0.muscache.com/im/pictures/ade817ee-4eff-4ad3-8d9a-413bcfd939cf.jpg",
+      "https://a0.muscache.com/im/pictures/77e31e58-4c22-4c8c-8fb5-1e69d4933b8c.jpg",
+      "https://a0.muscache.com/im/pictures/351d5ed9-72e5-49b8-84a4-cb3efee47ce1.jpg",
+      "https://a0.muscache.com/im/pictures/03213c73-5971-49c4-9ff3-4decfb01a2ce.jpg",
+      "https://a0.muscache.com/im/pictures/752b1a00-9d9a-4a90-8866-97368828083b.jpg"
+    ],
+    "host": {
+      "_id": "u129",
+      "fullname": "Joseph Thomas",
+      "imgUrl":
+        "https://a0.muscache.com/im/pictures/user/a515c1ea-a27a-4eac-add1-bbd41def051a.jpg?im_w=240"
+    },
+    "loc": {
+      "country": "United States",
+      "countryCode": "US",
+      "address": "Los Angeles, United States",
+      "lat": 34.05159223951297,
+      "lng": -118.26067395698153
+    },
+    "stayReviewSum": {
+      "cleanliness": 3.8,
+      "communication ": 3.9,
+      "check-in ": 3.5,
+      "accuracy ": 4.1,
+      "location ": 4.6,
+      "value ": 4.8
+    },
+    "reviews": [
+      {
+        "id": "r123",
+        "txt": "Nice house with a beautiful view. Owner was out most of the time. Cute dog as a bonus.",
+        "date": "August 2021",
+        "ratings": {
+          "avg": 4.5,
+          "cleanliness": 3.2,
+          "communication ": 4.3,
+          "check-in ": 4.7,
+          "accuracy ": 2.3,
+          "location ": 4.9,
+          "value ": 3.9
+        },
+        "by": {
+          "_id": "u130",
+          "fullname": "Sarah Roberts",
+          "imgUrl":
+            "https://a0.muscache.com/im/pictures/user/8657d1be-095a-4d5b-86e2-0e5d381ecbca.jpg?im_w=240"
+        }
+      } 
+      
+    ]
+  },
+  {
+    "_id": "s108",
+    "title": "New furnished suite inside of a luxury apartment home ",
+    "desc": "Explore the upscale comfort and style waiting for you at Concourse, a top destination for high-end living in the City of Angels. Our Westchester furnished suites with paid utilities invite you to indulge in the finer things in life—from sophisticated interiors and first-in-class amenities to an unbeatable address close to work and play. ",
+    "price": "67",
+    "previewDesc": "Private room in rental unit ",
+    "capacity": "1",
+    "typeDesc": "1 guest · 1 bedroom · 1 bed · 1 shared bath",
+    "type": "Room",
+    "stayType": "Private Room",
+    "city": "Los Angeles",
+    "avgReviewRating": 4.5,
+    "amenities": ["TV", "Wifi", "Kitchen", "Cooking basics"],
+    "imgUrls": [
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-51732200/original/1b9453ac-e5d2-41ce-a199-fbc4bc06e3f4.jpeg",
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-51732200/original/edde6562-bcc0-449e-a28c-1b1e80c833a9.jpeg",
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-51732200/original/0254c0cb-a476-4a5f-9669-2aeca484e38c.jpeg",
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-51732200/original/41ad28e9-3c8a-4a06-ad08-6f082370f8bc.jpeg",
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-51732200/original/0752f500-ed60-472f-8661-34c0368d3c30.jpeg"
+    ],
+    "host": {
+      "_id": "u101",
+      "fullname": "Sandra Hughes",
+      "imgUrl":
+        "https://a0.muscache.com/im/pictures/user/425d757b-3610-40b9-b3f0-fd0f47909512.jpg?im_w=240"
+    },
+    "loc": {
+      "country": "United States",
+      "countryCode": "US",
+      "address": "Los Angeles, United States",
+      "lat": 34.05159223951297,
+      "lng": -118.26067395698153
+    },
+    "stayReviewSum": {
+      "cleanliness": 3.8,
+      "communication ": 3.9,
+      "check-in ": 3.5,
+      "accuracy ": 4.1,
+      "location ": 4.6,
+      "value ": 4.8
+    },
+    "reviews": [
+      {
+        "id": "r103",
+        "txt": "a great place to stay..",
+        "date": "August 2021",
+        "ratings": {
+          "avg": 4.5,
+          "cleanliness": 3.2,
+          "communication ": 4.3,
+          "check-in ": 4.7,
+          "accuracy ": 2.3,
+          "location ": 4.9,
+          "value ": 3.9
+        },
+        "by": {
+          "_id": "u102",
+          "fullname": "Anthony Green",
+          "imgUrl":
+            "https://a0.muscache.com/im/users/31348724/profile_pic/1429367474/original.jpg?im_w=240"
+        }
+      }
+    ]
+  },
+  {
+    "_id": "s109",
+    "title": "Retro Silver Lake Studio with a Solar-Heated Pool ",
+    "desc": "Work on a tan in the California sun and slide down a ladder into the pool. Further outdoor areas include a covered deck and balcony with a view. Vintage kitchen tiles and cabinets along with mid-century furnishings lend the interior a 1940s vibe. ",
+    "price": "509",
+    "previewDesc": "Entire guesthouse",
+    "capacity": "3",
+    "typeDesc": "3 guests · Studio, · 1 bed · 1 bath",
+    "type": "GuestHouse",
+    "stayType": "Entire Place",
+    "city": "Los Angeles",
+    "avgReviewRating": 4.5,
+    "amenities": ["TV", "Wifi", "Kitchen", "Cooking basics"],
+    "imgUrls": [
+      "https://a0.muscache.com/im/pictures/e81d3250-8e60-4279-ad47-536311abd211.jpg",
+      "https://a0.muscache.com/im/pictures/0873103f-277c-431d-9e7e-50c8c80e66b1.jpg",
+      "https://a0.muscache.com/im/pictures/e14da330-7fb6-4ed5-bd17-93dded1c3364.jpg",
+      "https://a0.muscache.com/im/pictures/2b6530be-2f31-4d92-9dc5-41823bc8a7ae.jpg",
+      "https://a0.muscache.com/im/pictures/3afc4ce2-76ea-4fea-b579-1a0dec82ee96.jpg"
+    ],
+    "host": {
+      "_id": "u101",
+      "fullname": "Sandra Hughes",
+      "imgUrl":
+        "https://a0.muscache.com/im/pictures/user/accd943b-dfa9-43a9-b8ef-c5affdebea9c.jpg?im_w=240"
+    },
+    "loc": {
+      "country": "United States",
+      "countryCode": "US",
+      "address": "Los Angeles, United States",
+      "lat": 34.05159223951297,
+      "lng": -118.26067395698153
+    },
+    "stayReviewSum": {
+      "cleanliness": 3.8,
+      "communication ": 3.9,
+      "check-in ": 3.5,
+      "accuracy ": 4.1,
+      "location ": 4.6,
+      "value ": 4.8
+    },
+    "reviews": [
+      {
+        "id": "r103",
+        "txt": "a great place to stay..",
+        "date": "August 2021",
+        "ratings": {
+          "avg": 4.5,
+          "cleanliness": 3.2,
+          "communication ": 4.3,
+          "check-in ": 4.7,
+          "accuracy ": 2.3,
+          "location ": 4.9,
+          "value ": 3.9
+        },
+        "by": {
+          "_id": "u102",
+          "fullname": "Anthony Green",
+          "imgUrl":
+            "https://a0.muscache.com/im/pictures/user/39a70f98-c149-45d3-a975-a89acd0d85a0.jpg?im_w=240"
+        }
+      }
+    ]
+  },
+
+  {
+    "_id": "s110",
+    "title": "Spacious & Stylish 1 BR w/Balcony + Office in DTLA ",
+    "desc": "This modern and chic one-bedroom apartment in downtown Los Angeles provides all the comforts of home, plus a full suite of amenities for work and relaxation. The private balcony perches you amid the skyline with spectacular views.  ",
+    "price": "679",
+    "previewDesc": "Entire rental unit",
+    "capacity": "2",
+    "typeDesc": "2 guests · 1 bedroom · 1 bed · 2 baths",
+    "type": "Appartment",
+    "stayType": "Private Room",
+    "city": "Los Angeles",
+    "avgReviewRating": 4.5,
+    "amenities": ["TV", "Wifi", "Kitchen", "Cooking basics"],
+    "imgUrls": [
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-50245029/original/165bf13f-d12f-414a-9cd5-0f8d8bbfa430.jpeg",
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-50245029/original/4473d803-e121-438f-8197-c2c0295ab2eb.jpeg",
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-50245029/original/e2eede36-39cf-4ac1-ad06-84a728df3151.jpeg",
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-50245029/original/5f33c682-5df5-4d4d-bf70-2bfc6e49dcd8.jpeg",
+      "https://a0.muscache.com/im/pictures/prohost-api/Hosting-50245029/original/70827792-1b11-4618-98fd-89407c6c663c.jpeg"
+    ],
+    "host": {
+      "_id": "u101",
+      "fullname": "Sandra Hughes",
+      "imgUrl":
+        "https://a0.muscache.com/im/pictures/user/2c7fbea6-1ea5-41cd-bfb9-3eafb85399c7.jpg?im_w=240"
+    },
+    "loc": {
+      "country": "United States",
+      "countryCode": "US",
+      "address": "Los Angeles, United States",
+      "lat": 34.05159223951297,
+      "lng": -118.26067395698153
+    },
+    "stayReviewSum": {
+      "cleanliness": 3.8,
+      "communication ": 3.9,
+      "check-in ": 3.5,
+      "accuracy ": 4.1,
+      "location ": 4.6,
+      "value ": 4.8
+    },
+    "reviews": [
+      {
+        "id": "r103",
+        "txt": "a great place to stay..",
+        "date": "August 2021",
+        "ratings": {
+          "avg": 4.5,
+          "cleanliness": 3.2,
+          "communication ": 4.3,
+          "check-in ": 4.7,
+          "accuracy ": 2.3,
+          "location ": 4.9,
+          "value ": 3.9
+        },
+        "by": {
+          "_id": "u102",
+          "fullname": "Anthony Green",
+          "imgUrl":
+            "https://a0.muscache.com/im/pictures/user/14ead8b1-452b-4f24-bc28-24821c3834c7.jpg?im_w=240"
+        }
+      }
+    ]
+  }
+]

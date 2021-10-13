@@ -1,0 +1,224 @@
+[
+    {
+        "_id": "u101",
+        "fullname": "David Levi",
+        "imgUrl": "https: //a0.muscache.com/im/pictures/user/139fcf37-654b-428a-b594-b2199bce3d7a.jpg",
+        "isHost": true,
+        "username": "u101",
+        "password": "secret",
+        "email": "u101@aircnc.com",
+        "orders":[]
+        
+    },
+    {
+        "_id": "u102",
+        "fullname": "Ryan Hicks",
+        "imgUrl": "https://a0.muscache.com/im/users/35191034/profile_pic/1433675940/original.jpg",
+        "isHost": false,
+        "username": "u102",
+        "password": "secret",
+        "email": "u102@aircnc.com",
+        "orders":[]
+    },
+    {
+        "_id": "u103",
+        "fullname": "Elain Hills",
+        "imgUrl": "https://a0.muscache.com/im/pictures/user/2c7fbea6-1ea5-41cd-bfb9-3eafb85399c7.jpg",
+        "isHost": false,
+        "username": "u103",
+        "password": "secret",
+        "email": "u103@aircnc.com",
+        "orders":[]
+    },
+    {
+        "_id": "u104",
+        "fullname": "Ertan Can",
+        "imgUrl": "https://a0.muscache.com/im/pictures/user/72aa03b7-f4e7-497d-bf23-dbdf91755df8.jpg",
+        "isHost": false,
+        "username": "u104",
+        "password": "secret",
+        "email": "u104@aircnc.com",
+        "orders":[]
+    },
+    {
+        "_id": "u105",
+        "fullname": "Bob Ross",
+        "imgUrl": "https://a0.muscache.com/im/pictures/user/1199bb79-3af1-42e0-b1a7-3e8cba99cb10.jpg",
+        "isHost": false,
+        "username": "u105",
+        "password": "secret",
+        "email": "u105@aircnc.com",
+        "orders":[]
+    },
+    {
+        "_id": "u106",
+        "fullname": "James Williams",
+        "imgUrl": "https://a0.muscache.com/im/users/31348724/profile_pic/1429367474/original.jpg",
+        "isHost": false,
+        "username": "u106",
+        "password": "secret",
+        "email": "u106@aircnc.com",
+        "orders":[]
+    },
+    {
+        "_id": "u107",
+        "fullname": "Laurence Baas",
+        "imgUrl": "https://a0.muscache.com/im/pictures/user/cd58f197-01c3-45f2-9380-f0265be2240d.jpg",
+        "isHost": false,
+        "username": "u107",
+        "password": "secret",
+        "email": "u107@aircnc.com",
+        "orders":[]
+    },
+    {
+        "_id": "u108",
+        "fullname": "Amiee Beek",
+        "imgUrl": "https://a0.muscache.com/im/pictures/user/accd943b-dfa9-43a9-b8ef-c5affdebea9c.jpg",
+        "isHost": false,
+        "username": "u108",
+        "password": "secret",
+        "email": "u108@aircnc.com",
+        "orders":[]
+    },
+    {
+        "_id": "u109",
+        "fullname": "Joseph Thomas",
+        "imgUrl": "https://a0.muscache.com/im/pictures/user/a515c1ea-a27a-4eac-add1-bbd41def051a.jpg",
+        "isHost": false,
+        "username": "u109",
+        "password": "secret",
+        "email": "u109@aircnc.com",
+        "orders":[]
+    },
+    {
+        "_id": "u110",
+        "fullname": "Sandra Hughes",
+        "imgUrl": "https://a0.muscache.com/im/pictures/user/425d757b-3610-40b9-b3f0-fd0f47909512.jpg",
+        "isHost": false,
+        "username": "u110",
+        "password": "secret",
+        "email": "u110@aircnc.com",
+        "orders":[]
+    },
+    {
+        "_id": "u111",
+        "fullname": "Edna Levi",
+        "imgUrl": "https: //a0.muscache.com/im/pictures/user/1e548a9d-602a-4eae-b5bb-b1e250678b61.jpg",
+        "isHost": false,
+        "username": "u111",
+        "password": "secret",
+        "email": "u111@aircnc.com",
+        "orders":[]
+    },
+    {
+        "_id": "u112",
+        "fullname": "Ivan Thomas",
+        "imgUrl": "https: //a0.muscache.com/im/pictures/user/87cc7028-d520-4a51-bd30-14fa64fee5e0.jpg",
+        "isHost": false,
+        "username": "u112",
+        "password": "secret",
+        "email": "u112@aircnc.com",
+        "orders":[]
+    },
+    {
+        "_id": "u113",
+        "fullname": "Zoey Hirsh",
+        "imgUrl": "https: //a0.muscache.com/im/users/477080/profile_pic/1435261764/original.jpg",
+        "isHost": false,
+        "username": "u113",
+        "password": "secret",
+        "email": "u113@aircnc.com",
+        "orders":[]
+    },
+    
+    {
+        "_id": "u114",
+        "fullname": "Inanna Jones",
+        "imgUrl": "https://a0.muscache.com/im/pictures/user/09715d6a-8190-441b-8155-a555ef6f9a13.jpg",
+        "isHost": false,
+        "username": "u114",
+        "password": "secret",
+        "email": "u114@aircnc.com",
+        "orders":[]
+    },
+    {
+        "_id": "u115",
+        "fullname": "Karly Smith",
+        "imgUrl": "https://a0.muscache.com/im/pictures/user/09715d6a-8190-441b-8155-a555ef6f9a13.jpg",
+        "isHost": false,
+        "username": "u115",
+        "password": "secret",
+        "email": "u115@aircnc.com",
+        "orders":[]
+    },
+    {
+        "_id": "u116",
+        "fullname": "Victoria Wills",
+        "imgUrl": "https://a0.muscache.com/im/pictures/user/15d5fa6d-f6b3-4c52-9cd9-d048fc1281de.jpg",
+        "isHost": false,
+        "username": "u116",
+        "password": "secret",
+        "email": "u116@aircnc.com",
+        "orders":[]
+    },
+    {
+        "_id": "u117",
+        "fullname": "Ceyda Miller",
+        "imgUrl": "https://a0.muscache.com/im/users/40391282/profile_pic/1439183113/original.jpg",
+        "isHost": false,
+        "username": "u117",
+        "password": "secret",
+        "email": "u117@aircnc.com",
+        "orders":[]
+    },
+    {
+        "_id": "u118",
+        "fullname": "Thomas Davis",
+        "imgUrl": "https://a0.muscache.com/im/pictures/user/006d86e3-0229-4344-beea-1e2fa2eb024b.jpg",
+        "isHost": false,
+        "username": "u118",
+        "password": "secret",
+        "email": "u118@aircnc.com",
+        "orders":[]
+    },
+    {
+        "_id": "u119",
+        "fullname": "Emilia Lopez",
+        "imgUrl": "https://a0.muscache.com/im/pictures/user/69da6fd9-ac6b-4895-b4bb-8e1046329bde.jpg",
+        "isHost": false,
+        "username": "u119",
+        "password": "secret",
+        "email": "u119@aircnc.com",
+        "orders":[]
+    },
+    {
+        "_id": "u120",
+        "fullname": "Adrian Hill",
+        "imgUrl": "https://a0.muscache.com/im/pictures/user/dfd6aa7f-7061-405b-85a3-171d0af4b34d.jpg",
+        "isHost": false,
+        "username": "u120",
+        "password": "secret",
+        "email": "u120@aircnc.com",
+        "orders":[]
+    },
+    {
+        "_id": "u121",
+        "fullname": "Erica Lee",
+        "imgUrl": "https://a0.muscache.com/im/users/43360363/profile_pic/1443118542/original.jpg",
+        "isHost": false,
+        "username": "u121",
+        "password": "secret",
+        "email": "121@aircnc.com",
+        "orders":[]
+    },
+    {
+        "_id": "u122",
+        "fullname": "Elaine Taylor",
+        "imgUrl": "https://a0.muscache.com/im/pictures/user/2e6f6f6b-9cc9-47ae-bbfc-1c0c35051c85.jpg",
+        "isHost": false,
+        "username": "u122",
+        "password": "secret",
+        "email": "u122@aircnc.com",
+        "orders":[]
+    }
+]
