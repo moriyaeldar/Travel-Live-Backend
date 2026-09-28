@@ -1,6 +1,3 @@
 module.exports = {
-  'dbURL': 'mongodb+srv://mor:I6SRHgsmly4UvOH7@cluster0.4y87x.mongodb.net/staysDB?retryWrites=true&w=majority',
+  dbURL: process.env.MONGO_URI || 'mongodb://localhost:27017',
 }
-
-
-// 'dbURL': 'mongodb://localhost:27017',

@@ -1,3 +1,4 @@
+require('dotenv').config()
 const express = require('express')
 const cors = require('cors')
 const path = require('path')
@@ -8,7 +9,7 @@ const http = require('http').createServer(app)
 
 // Express App Config
 const session = expressSession({
-    secret: 'coding is amazing',
+    secret: process.env.SESSION_SECRET || 'dev-session-secret',
     resave: false,
     saveUninitialized: true,
     cookie: { secure: false }

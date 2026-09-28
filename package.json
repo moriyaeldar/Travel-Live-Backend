@@ -1,7 +1,7 @@
 {
-    "name": "server",
+    "name": "travel-live-backend",
     "version": "1.0.0",
-    "description": "production ready server",
+    "description": "Node.js + Express + MongoDB REST API and Socket.io server for Travel&Live, an Airbnb-style booking app",
     "main": "server.js",
     "scripts": {
         "start": "set NODE_ENV=development&&nodemon server.js",
@@ -17,7 +17,8 @@
         "express-session": "^1.16.2",
         "express-socket.io-session": "^1.3.5",
         "mongodb": "^3.2.7",
-        "socket.io": "^4.2.0"
+        "socket.io": "^4.2.0",
+        "dotenv": "^16.4.5"
     },
     "devDependencies": {
         "nodemon": "1.18.10"
